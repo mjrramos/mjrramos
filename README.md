@@ -1,7 +1,7 @@
 
  
  <div>
-  <h1 align="center">Opa, beleza? Eu sou o <a href="www.linkedin.com/in/marcio-junior-331427b7"><i>Junior!</i></a> </h1>
+  <h1 align="center">Opa, beleza?</h1>
   
 
 
